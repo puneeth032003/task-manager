@@ -1,4 +1,4 @@
-# Taskly - a task manager app
+# Task Manager - a task manager app
 
 **Taskly** is a task manager built with Vite, React, JavaScript, Node.js, Express, MongoDB, and Tailwind CSS. This app is designed for seamless task management, offering a beautiful and intuitive interface that works flawlessly across both web and mobile devices.
 
@@ -37,14 +37,6 @@
 - MongoDB & Mongoose
 - Vite
 - Tailwind CSS
-
-## 📝 Process
-
-I started by listing the essential features I wanted in a task manager, drawing inspiration from popular tools like Trello and Notion. The development process began with setting up the backend using Node.js, Express, and MongoDB to handle user authentication and task management.
-
-Once the backend was ready, I moved on to setting up Vite for the frontend and integrating it with React and JavaScript. I focused on creating a user-friendly dashboard that allowed easy task management with drag-and-drop functionality. The styling was handled using Tailwind CSS, making the interface clean and responsive.
-
-The most challenging part was implementing the drag-and-drop functionality and ensuring that the changes were reflected in the backend and persisted on page refresh. Learning how to efficiently manage state across different components was also a significant part of the process. Since it was my first time building a fullstack application using MERN, I found it challenging but equally rewarding to implement authentication features and security using packages such as JWT and bcrypt🔐.
 
 ## 📁 Environment Setup
 - **Frontend**: A sample environment file is located in the `frontend` folder. It includes placeholders for environment variables used by the React application.
@@ -87,11 +79,3 @@ While the current version of Taskly is robust and feature-rich, there are severa
 ## 🐛 Current Bugs
 So far, Taskly performs well on the web and on mobile devices. If you encounter any bugs or issues, please let me know!
 
-## Credits 🙏
-- Favicon by Flaticon
-- Cover picture on Auth page from Dribble
-
-## 🎥 A short Demo
-I couldn't include all the features in this short video, but tried to include the main ones.
-
-https://github.com/user-attachments/assets/ed74edf0-c151-47ba-a833-433b04ba8e22
