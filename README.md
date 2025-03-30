@@ -1,6 +1,6 @@
 # Task Manager
 
-**Taskly** is a task manager built with Vite, React, JavaScript, Node.js, Express, MongoDB, and Tailwind CSS. This app is designed for seamless task management, offering a beautiful and intuitive interface that works flawlessly across both web and mobile devices.
+**Task Manager** is a task manager built with Vite, React, JavaScript, Node.js, Express, MongoDB, and Tailwind CSS. This app is designed for seamless task management, offering a beautiful and intuitive interface that works flawlessly across both web and mobile devices.
 
 ## 🚀 Features
 
@@ -24,11 +24,6 @@
 ### 🎨 User Interface
 - Fully responsive design, ensuring a smooth experience on both desktop and mobile devices.
 - **Dark Mode**: Toggle between light and dark themes for a comfortable viewing experience.
-
-### 🔧 Settings
-- Update user profile information, including name, email, and role.
-- Change security details such as password.
-- Log out or delete your account from the settings page.
 
 ## 🛠️ Main Technologies
 - React
